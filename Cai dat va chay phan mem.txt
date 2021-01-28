@@ -1,0 +1,2 @@
+Để khởi chạy server, dẫn đường dẫn tới thư mục này trong cmd và dùng mã node server.js. Sau khi đã khởi tạo các máy khác có thể kết nối thông qua
+ip được định trên máy host.
